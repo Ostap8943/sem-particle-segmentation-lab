@@ -118,9 +118,9 @@ After segmentation, the application calculates geometric characteristics of dete
 
 The equivalent diameter is calculated as:
 
-\[
+$$
 d_{eq} = \sqrt{\frac{4A}{\pi}}
-\]
+$$
 
 Where:
 
@@ -396,13 +396,5 @@ The application is intended for image analysis and experimentation. Segmentation
 
 3. Duda, R. O., & Hart, P. E. (1972). Use of the Hough Transformation to Detect Lines and Curves in Pictures. *Communications of the ACM.*
 
----
 
-## 👤 Author
-
-**Ostap Bednarchuk**
-
-Python Developer interested in backend development, computer vision, machine learning, and software automation.
-
-GitHub: [@Ostap8943](https://github.com/Ostap8943)
 
